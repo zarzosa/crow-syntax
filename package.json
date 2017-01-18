@@ -1,0 +1,19 @@
+{
+  "name": "crow-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax for Crow UI.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "crow",
+    "clean",
+    "flat",
+    "dark"
+  ],
+  "repository": "https://github.com/zarzosa/crow-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
